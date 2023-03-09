@@ -11,7 +11,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.2
 	github.com/ScaleFT/sshkeys v0.0.0-20181112160850-82451a803681
 	github.com/aws/aws-sdk-go v1.44.82
-	github.com/containerd/containerd v1.6.14
+	github.com/containerd/containerd v1.6.18
 	github.com/docker/buildx v0.8.2
 	github.com/docker/cli v23.0.0-rc.1+incompatible
 	github.com/docker/docker v23.0.0-rc.1+incompatible
@@ -23,7 +23,7 @@ require (
 	github.com/gophercloud/utils v0.0.0-20181029231510-34f5991525d1
 	github.com/hashicorp/go-version v1.2.0
 	github.com/klauspost/pgzip v1.2.5
-	github.com/moby/buildkit v0.11.1
+	github.com/moby/buildkit v0.11.4
 	github.com/moby/hyperkit v0.0.0-20180416161519-d65b09c1c28a
 	//github.com/moby/moby v20.10.3-0.20220728162118-71cb54cec41e+incompatible // indirect
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6
